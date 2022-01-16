@@ -2,5 +2,4 @@
 In order to run the above model, simple run "MPC_run_script.m"
 
 # Requirements
-1) Matlab r2017b or higher
-2) MPC toolbox
+For running MPC toolbox in matlab, requirements can be checked here: https://www.mathworks.com/support/requirements/model-predictive-control-toolbox.html
